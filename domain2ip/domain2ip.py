@@ -4,7 +4,7 @@
 import socket # kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi
 from time import sleep # kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi
 from os import system # kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi
-system("cls") # kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi
+system("clear") # kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi
 m = "\033[1;31m"# kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi
 h = "\033[1;32m"# kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi
 k = "\033[1;33m"# kode dibuat oleh rofi # kode dibuat oleh rofi # kode dibuat oleh rofi

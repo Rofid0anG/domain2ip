@@ -1,0 +1,3 @@
+program : mengubah domain menjadi ip address
+pembuat : rofi
+dibuat : selasa, 6 september 2022
